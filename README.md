@@ -134,4 +134,4 @@ Projede aşağıdaki gömülü sistem yapıları kullanılmıştır:
 
 ## 📄 Proje
 
-Bu proje, **2024-2025 Gömülü Sistem Dersi Laboratuvar Projesi** kapsamında geliştirilmiştir.
+Bu proje,  Gömülü Sistem Dersi Laboratuvar Projesi** kapsamında geliştirilmiştir.
